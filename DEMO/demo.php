@@ -19,7 +19,7 @@
                 ["ten" => "Trần Thị B",  "mssv" => "00000000"],
                 ["ten" => "Lê Văn C",    "mssv" => "00000000"],
                 ["ten" => "Nguyễn Văn A", "mssv" => "00000000"],
-                ["ten" => "Trần Thị B",  "mssv" => "00000000"],
+                ["ten" => "Trần Bao Thien",  "mssv" => "65133334"],
                 ["ten" => "Lê Văn C",    "mssv" => "00000000"],
             ];
 
