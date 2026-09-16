@@ -19,7 +19,7 @@
                 ["ten" => "Võ Nhật Lâm",  "mssv" => "65131638"],
                 ["ten" => "Lê Văn C",    "mssv" => "00000000"],
                 ["ten" => "Nguyễn Văn A", "mssv" => "00000000"],
-                ["ten" => "Trần Thị B",  "mssv" => "00000000"],
+                ["ten" => "Nguyễn Nhật Khánh Duy",  "mssv" => "65130634"],
                 ["ten" => "Lê Văn C",    "mssv" => "00000000"],
             ];
 
