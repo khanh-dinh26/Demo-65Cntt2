@@ -17,7 +17,7 @@
             $thanh_vien = [
                 ["ten" => "Nguyễn Đình Khánh", "mssv" => "65131460"],
                 ["ten" => "Võ Nhật Lâm",  "mssv" => "65131638"],
-                ["ten" => "Lê Văn C",    "mssv" => "00000000"],
+                ["ten" => "Huỳnh Tuấn Ngọc",    "mssv" => "65132224"],
                 ["ten" => "Nguyễn Văn A", "mssv" => "00000000"],
                 ["ten" => "Nguyễn Nhật Khánh Duy",  "mssv" => "65130634"],
                 ["ten" => "Lê Văn C",    "mssv" => "00000000"],
