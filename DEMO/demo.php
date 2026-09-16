@@ -20,7 +20,7 @@
                 ["ten" => "Huỳnh Tuấn Ngọc",    "mssv" => "65132224"],
                 ["ten" => "Nguyễn Văn A", "mssv" => "00000000"],
                 ["ten" => "Nguyễn Nhật Khánh Duy",  "mssv" => "65130634"],
-                ["ten" => "Lê Văn C",    "mssv" => "00000000"],
+                ["ten" => "Tran Bao Thien",    "mssv" => "65133334"],
             ];
 
             $stt = 1;
